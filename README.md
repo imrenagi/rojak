@@ -27,13 +27,20 @@ For the first major release, this project will provide the following functionali
 
 ## System Architecture
 
+There are 4 main applications running for this project. They are:
+* Rojak Frontend Web
+* Rojak API
+* Rojak Pantau
+* Pub/Sub Application. This might gonna be Kafka/Redis/GCP Pubsub.
+
+![New Architecture](./new-architecture.jpg)
 
 ## How to contribute
 
 This application consists of 3 main parts and each part will have its own github
 repositories. They are `rojak-pantau` (includes crawler and machine learning),
 `rojak-api` (RESTful API server built by Spring Boot and Spring Cloud) and
-`rojak-web-frontend` (built byReactJs).
+`rojak-web-frontend` (built by ReactJs).
 
 To contribute, please create Pull Request from specific git repositories, instead of
 to this repository. FYI, each project will have list of TODO's located on
