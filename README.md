@@ -1,29 +1,39 @@
 # Rojak
 
+This is the main project repository of [kawalmedia.id](http://kawalmedia.id) (Coming Soon).
+
+## What is Rojak in the world?
+
 Rojak is a **non-profit** and open source project used for observing online news
-website in any election in Indonesia. It could be presidential, governor, or
-even major election. The project was initialized first time in October 2016 [here](https://github.com/pyk/rojak) to observe 2017 governor election in DKI
-Jakarta.
+website in any election in Indonesia. It can be useful for doing some news data
+analytics in presidential, governor, or even major election. This project actually was
+initialized at the very first time at October 2016 [here](https://github.com/pyk/rojak),
+to observe the 2017 governor election in DKI Jakarta. However, because there were some
+unfinished tasks on our first initiative, we weren't able to release this project
+to production. However, since the responses/contributions from the developer community was
+extremely good at that time, we have been thinking about restarting this initiative
+and coming up with new requirements for the incoming election in Indonesia.
 
-## Why is Rojak?
+### Why Rojak?
 
-In the very long run of an public election, people tend to get informations about
-the election candidate from the online news site. Unfortunately, some of the news
-online tend to  take a side in one of particular candidate. This makes bias to
-some/all of the informations published on that online news. It could give
+In the long journey of an public election, our citizen usually get informations about
+the election candidate from the online news site. Unfortunately, some of the
+online media tend to take a side in one of the election candidates. This can create
+bias to some/most of the informations published on the site. It could give
 positive impact for a candidate they take the side with, or even bad impact to
-another candidate. As the consequences, there might be some resentments and  various
-disputes in the community that are ultimately very difficult to resolve.
+another candidate and vice versa. Unfortunately, it might give some impact to
+all/most of the citizen's sentiment about one or more candidates.
 
-By developing this project, we have huge hope that the citizen will get prior
-general knowledge about how any particular media creates stories and takes a
-side in an election. In addition, this project is also able to be more more subtle
-and not easy to be provoked.
+By developing this project, we really have a huge hope that we can increase the
+awareness of our citizens by providing them the analytical data about how news media
+creates stories and takes a side in an election. Besides, by contributing to this
+open source project, we hope that we will be able to stimulate more developers
+in Indonesia to contribute to open source software community.
 
-## Main Features
+### kawalmedia.id?
 
-For the first major release, this project will provide the following functionalities:
-* **Sentiment analytics** from all online news sites to all candidates in an election.
+Ultimately, we are going to call this project as **kawalmedia.id**. The usage of **Rojak**
+as the name of this project is to preserve the original initiative of this project.
 
 ## System Architecture
 
