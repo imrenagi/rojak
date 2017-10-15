@@ -1,16 +1,11 @@
-# Kontribusi ke Rojak
+# How to contribute to Rojak
 
-Dokumen ini berisi penjelasan singkat tentang bagaimana cara untuk
-berkontribusi di Rojak.
-
-1. Cari issue yang kalian berminat untuk memulai konstribusi [di
-sini](https://github.com/pyk/rojak/issues)
-2. Diskusikan, tanyakan kalau kurang jelas, konfirmasi dll.
-3. Fork project ini
-4. Buat changes di fork kalian
+1. Rojak contains 3 submodules: `rojak-api`, `rojak-pantau`, and `rojak-web-frontend`. Find issues that you guys are interested in on each of the git submodule issues
+2. Discuss and clarify either in the Github issue or slack group regarding the task
+3. Fork the project
+4. Make changes within the fork
 5. Send PR
 
-## Ngobrol yuk!
+## Slack group
 
-Kamu bisa gabung di Slack nya Rojak lewat sini:
-[http://rojakteam.artificialintelligence.id](http://rojakteam.artificialintelligence.id)
+You can join our discussion on slack: [http://rojakteam.artificialintelligence.id](http://rojakteam.artificialintelligence.id)
